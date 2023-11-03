@@ -1,0 +1,154 @@
+.excel-style-table {
+    margin-left: 50px;
+    border-collapse: collapse;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    /* Combine cell borders to create a single line between rows */
+    /* Optional: Set the table width */
+}
+
+.excel-style-table tr {
+    border-bottom: 1px solid #000;
+    /* Add a bottom border to separate rows */
+}
+
+.excel-style-table th {
+    border-left: 1px solid #000;
+    /* Add a bottom border to separate rows */
+}
+
+.excel-style-table td {
+    padding: 2px;
+    /* Add some padding for spacing */
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    ;
+    /* Add a top border to create a line above each row */
+}
+
+
+.blockdiv1 {
+    background-color: rgb(35, 201, 35);
+    height: 20px;
+    width: 80%;
+    float: left;
+}
+
+.blockdiv2 {
+    background-color: rgb(32, 12, 214);
+    height: 20px;
+    width: 20%;
+    float: right;
+}
+
+.blockdiv3 {
+    background-color: rgb(153, 21, 21);
+    height: 70px;
+    width: 35%;
+    float: left;
+}
+
+.blockdiv4 {
+    background-color: rgb(231, 108, 7);
+    height: 35px;
+    width: 35%;
+    float: left;
+}
+
+.blockdiv5 {
+    background-color: rgb(133, 133, 133);
+    height: 35px;
+    width: 30%;
+    float: left;
+}
+
+.blockdiv6 {
+    background-color: rgb(219, 163, 9);
+    height: 35px;
+    width: 23%;
+    float: left;
+}
+
+.blockdiv7 {
+    background-color: rgb(10, 156, 125);
+    height: 35px;
+    width: 22%;
+    float: left;
+}
+
+.blockdiv7 {
+    background-color: rgb(10, 156, 125);
+    height: 35px;
+    width: 22%;
+    float: left;
+}
+
+.blockdiv8 {
+    background-color: rgb(211, 98, 5);
+    height: 35px;
+    width: 20%;
+    float: left;
+}
+
+.blockdiv9 {
+    background-color: rgb(46, 43, 41);
+    height: 75px;
+    width: 100%;
+    float: left;
+}
+
+.clearfloat {
+    clear: both;
+}
+
+
+/*---EXERCICE 7-----*/
+
+
+.form-container1 {
+    height: 80px;
+    padding: 25px;
+    background-color: rgba(103, 153, 247, 0.932);
+}
+
+.form-container1 p {
+    margin-top: -35px;
+    background-color: rgba(103, 153, 247, 0.932);
+    width: 110px;
+}
+
+.form-container2 {
+    height: 140px;
+    padding: 25px;
+    background-color: rgba(192, 7, 152, 0.932);
+}
+
+.form-container2 p {
+    margin-top: -35px;
+    background-color: rgba(192, 7, 152, 0.932);
+    width: 150px;
+}
+
+.form-container3 {
+    height: 140px;
+    padding: 25px;
+    background-color: rgba(255, 0, 76, 0.932);
+}
+
+.form-container3 p {
+    margin-top: -35px;
+    background-color: rgba(255, 0, 76, 0.932);
+    width: 180px;
+}
+
+
+textarea {
+    width: 20%;
+    height: 15px;
+}
+
+input {
+    width: 20%;
+}
